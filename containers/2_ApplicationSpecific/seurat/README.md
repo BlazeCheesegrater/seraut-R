@@ -4,7 +4,7 @@
 
 Please refer to CCR's [container documentation](https://docs.ccr.buffalo.edu/en/latest/howto/containerization/) for more detailed information on building and using Apptainer.
 
-A brief guide to building the seurat container for scRNA analysis follows:
+A brief guide to building an R container for CCR's HPC follows:
 
 1. Start an interactive job
 
